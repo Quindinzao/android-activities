@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="wait">Wait…</string>
+    <string name="secondary">Secondary</string>
+    <string name="tertiary">Tertiary</string>
+    <string name="username">Username</string>
+    <string name="email">E-mail</string>
+    <string name="number_code">Number code</string>
+    <string name="back">Back</string>
+    <string name="go_to_main_activity">Go to Main Activity</string>
+    <string name="go_to_secondary_activity">Go to Secondary Activity</string>
+    <string name="go_to_tertiary_activity">Go to Tertiary Activity</string>
+    <string name="go_to_user_activity">Go to User Activity</string>
+</resources>
